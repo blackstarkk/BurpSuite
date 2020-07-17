@@ -34,7 +34,7 @@ setup(
         'Pillow==2.8.2',
         'SQLAlchemy==1.0.5',
         'bcrypt==2.0.0',
-        'gunicorn==19.3.0',
+        'gunicorn==19.5.0',
         'psycopg2==2.6.1',
         'boto==2.38.0',
         'BeautifulSoup',
